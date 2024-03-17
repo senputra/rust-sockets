@@ -17,3 +17,6 @@ Cargo.lock
 
 /target
 .DS_Store
+
+
+perf.**
